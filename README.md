@@ -14,4 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UriKialy&show_icons=true&locale=en&layout=compact" alt="UriKialy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UriKialy&show_icons=true&locale=en" alt="UriKialy" /></p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/UriKialy?&theme=unicorn&hide=ranking&ext=skills)](https://leetcode.com/UriKialy/)
+
 #
+
