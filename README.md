@@ -83,22 +83,12 @@
 </table>
 
 ---
-
+ 
 ### 🛠️ Stack
  
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="pytorch" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow" hspace="6"/><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="huggingface" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="opencv" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cpp" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git" hspace="6"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40" height="40" alt="latex" hspace="6"/></p>
-<p align="left"><img src="https://img.shields.io/badge/TransformerLens-EE4C2C?style=flat&logo=pytorch&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SAELens-6E40C9?style=flat" />&nbsp;<img src="https://img.shields.io/badge/lm--eval-005571?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Ripser-2C3E50?style=flat" />&nbsp;<img src="https://img.shields.io/badge/KeplerMapper-E74C3C?style=flat" />&nbsp;<img src="https://img.shields.io/badge/MONAI-00A3E0?style=flat" /></p>
----
-
-<p align="left">
-<img src="https://img.shields.io/badge/TransformerLens-EE4C2C?style=flat&logo=pytorch&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/SAELens-6E40C9?style=flat" />&nbsp;
-<img src="https://img.shields.io/badge/lm--eval-005571?style=flat" />&nbsp;
-<img src="https://img.shields.io/badge/Ripser-2C3E50?style=flat" />&nbsp;
-<img src="https://img.shields.io/badge/KeplerMapper-E74C3C?style=flat" />&nbsp;
-<img src="https://img.shields.io/badge/MONAI-00A3E0?style=flat" />
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,cpp,c,java,linux,git,latex,bash,vscode,anaconda&perline=14)](https://skillicons.dev)
+ 
+<p align="left"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/TransformerLens-EE4C2C?style=flat&logo=pytorch&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SAELens-6E40C9?style=flat" />&nbsp;<img src="https://img.shields.io/badge/lm--eval-005571?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Ripser-2C3E50?style=flat" />&nbsp;<img src="https://img.shields.io/badge/KeplerMapper-E74C3C?style=flat" />&nbsp;<img src="https://img.shields.io/badge/MONAI-00A3E0?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></p>
 ---
 
 ### 📈 Stats
