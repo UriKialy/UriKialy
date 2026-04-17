@@ -8,7 +8,7 @@
   <a href="https://scholar.google.com/citations?user=lIh8zEMAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="mailto:urikialy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
----
+
 
 ### 🔬 Research
 
@@ -83,22 +83,5 @@
 </tr>
 </table>
 
----
- 
-### 🛠️ Stack
- 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,cpp,c,java,linux,git,latex,bash,vscode,anaconda&perline=14)](https://skillicons.dev)
- 
-<p align="left"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/TransformerLens-EE4C2C?style=flat&logo=pytorch&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/SAELens-6E40C9?style=flat" />&nbsp;<img src="https://img.shields.io/badge/lm--eval-005571?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Ripser-2C3E50?style=flat" />&nbsp;<img src="https://img.shields.io/badge/KeplerMapper-E74C3C?style=flat" />&nbsp;<img src="https://img.shields.io/badge/MONAI-00A3E0?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></p>
----
 
-### 📈 Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=UriKialy&show_icons=true&theme=tokyonight&hide_border=true" height="165" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=UriKialy&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-<a href="https://leetcode.com/UriKialy/"><img src="https://leetcard.jacoblin.cool/UriKialy?theme=unicorn&hide=ranking&ext=skills" /></a>
-</p>
+ 
