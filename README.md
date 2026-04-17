@@ -4,9 +4,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UriKialy&label=Profile%20views&color=0e75b6&style=flat" alt="UriKialy" />&nbsp;&nbsp;
   <a href="https://linkedin.com/in/uri-kialy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@UriKialy" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=lIh8zEMAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="mailto:urikialy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-
 ---
 
 ### 🔬 Research
