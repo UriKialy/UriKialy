@@ -17,7 +17,7 @@
 <td width="50%" valign="top">
 
 #### 🌐 <a href="https://github.com/UriKialy/universal_vibe">A Universal Vibe?</a>
-<sub><b>ACL submission</b> · Klein, Shtrasberg, <b>Kialy</b></sub><br>
+<sub><b>accepted to EMNLP 2026</b> · Klein, Shtrasberg, <b>Kialy</b></sub><br>
 <sub>SAEs on Gemma-2-9B-IT reveal a language-agnostic slang core across EN/HE/RU — zero-shot transfers to DE.</sub><br>
 <sub>🔍 <code>p < 10⁻⁵</code> · 125 000× enrichment · causal steering</sub><br>
 <img src="https://img.shields.io/badge/SAELens-6E40C9?logo=python&logoColor=white" />&nbsp;
