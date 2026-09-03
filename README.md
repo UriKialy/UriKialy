@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🔌 <a href="https://github.com/UriKialy/circuit_for_finetune-CFT">Circuit-Based Fine-Tuning (CFT)</a>
+#### 🔌 <a href="[https://github.com/UriKialy/circuit_for_finetune-CFT](https://github.com/UriKialy/CFT.git)">Circuit-Based Fine-Tuning (CFT)</a>
 <sub><b>EAP-IG-guided PEFT for vision & multimodal models</b></sub><br>
 <sub>ViT · SWIN · DINOv2 · Gemma-3-4B on CBIS-DDSM, VTAB-1K, FGVC, CUB-200.</sub><br>
 <img src="https://img.shields.io/badge/ViT-5C2D91" />&nbsp;
